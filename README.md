@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 1. Clone the repo
    ```
-   git clone https://github.com/mlmurphythree/Phishing-Detector-App.git
+   git clone https://github.com/Amadou001/AI_project.git
    ```
 2. Navigate to the project directory
 
