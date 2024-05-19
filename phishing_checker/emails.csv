@@ -1,0 +1,11 @@
+text,label
+"Dear user, your account has been compromised. Click here to reset your password.",phishing
+"Hi John, Can you send me the report by EOD today?",legitimate
+Your package is out for delivery. Track your shipment here.,legitimate
+Your bank account needs immediate verification to avoid suspension. Log in here.,phishing
+Meeting scheduled for tomorrow at 10 AM. Please confirm your availability.,legitimate
+Congratulations! You've won a $1000 gift card. Claim your prize now.,phishing
+Reminder: Your subscription is due for renewal next week.,legitimate
+Urgent: Update your billing information to avoid service disruption.,phishing
+Let's catch up for lunch tomorrow at our usual place.,legitimate
+We have detected unusual activity on your account. Verify now to secure your account.,phishing
