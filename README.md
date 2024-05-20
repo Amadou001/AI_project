@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple steps.
    ```
    python app.py
    ```
-   - Before running the app add this following code at the end the app.py file
+   - Before running the app add this following code at the end of the app.py file
        ```
        if __name__ == '__main__':
          app.run(debug=True, host='0.0.0.0', port=5000)
